@@ -1,1 +1,1 @@
-# IBM_Hackathon
+# IBM Hackathon
